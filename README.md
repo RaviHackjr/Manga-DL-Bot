@@ -23,7 +23,7 @@
 </h3>
 
 - <b>[Blakite_Ravii](https://t.me/Blakite_Ravii)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://t.me/NineAnimeOfficial) </b>
-- <b>[🍀 DARKXSIDE78 🍅](https://t.me/DARKXSIDE78)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://t.me/https://t.me/GenAnimeOfc) </b
+- <b>[🍀 DARKXSIDE78 🍅](https://t.me/DARKXSIDE78)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://t.me/GenAnimeOfc) </b
 
 ━━━━━━━━━━━━━━━━━━━━
 
