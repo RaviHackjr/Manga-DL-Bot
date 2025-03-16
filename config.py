@@ -16,7 +16,7 @@ env_vars = {
   # Ex : Chapter {chap_num} {chap_name} @Manhwa_Arena
   "FNAME": "Chapter {chap_num} {chap_name} @Manhwa_Chat_Ocean",
   # Put Thumb Link 
-  "THUMB": "https://i.postimg.cc/LXkqSfRS/android-chrome-512x512.png"
+  "THUMB": ""
 }
 
 dbname = env_vars.get('DATABASE_URL_PRIMARY') or env_vars.get('DATABASE_URL') or 'sqlite:///test.db'
